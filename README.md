@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamharnad
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Php with Laravel
+- 🌱 I’m currently revising Javascript ES6 for the interviews
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me ... twitter.com/iamharnad
 
