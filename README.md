@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamharnad
+- 👋 Hi, I’m Krishna
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently revising Javascript ES6 for the interviews
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently working as Senior Software Engineer
+- 💞️ Currently exploring Typescript & Next.js
 - 📫 How to reach me ... twitter.com/iamharnad
 
 <!---
